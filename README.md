@@ -9,7 +9,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=minhtcai&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhtcai&count_private=true)
+![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhtcai&count_private=true&show_icons=true&theme=radical)
 
 <!--
 **minhtcai/minhtcai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
