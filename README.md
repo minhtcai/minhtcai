@@ -1,9 +1,7 @@
 ### Hi there, this is Minh 👋
 
-- 🔭 I’m currently working on X Lab
+- 🔭 I’m currently working on 3D Decomposition
 - 🌱 I’m currently learning Computer Vision at Carnegie Mellon University
-- 👯 I’m looking to collaborate on my startup
-- 🤔 I’m looking for help with my startup
 - 💬 Ask me about machine learning, computer vision, startup
 - 🦝 Visit me at: https://minhtcai.github.io/
 - 📫 How to reach me: minht@cs.cmu.edu
@@ -25,4 +23,5 @@ https://getemoji.com/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 Ref: https://dev.to/github/how-to-create-a-github-profile-readme-jha
+
 -->
